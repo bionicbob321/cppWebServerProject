@@ -1,0 +1,18 @@
+<ÿ = data seperator (alt+0255)>
+
+signup:
+þuseridÿpasswordhashÿpasswordsaltÿemailaddressÿusername
+
+password change:
+ü0passwordHashÿpasswordSalt
+
+record update:
+ü1ÿrecordÿrecord
+
+delete account:
+øuserid
+
+eventually: (NEED TO IMPLEMENT A UID SYSTEM)
+þ = signup request <alt+0254>
+ü = update login details <alt+0252>
+ø = delete account <alt+0248>
