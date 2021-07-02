@@ -2,7 +2,7 @@
 PLEASE NOTE: I MAKE NO GUARANTEES ABOUT THE SAFETY OR SECURITY OF THIS APPLICATION. I AM NOT A CYBERSECURITY PROFESSIONAL, OR EVEN A PROFFESIONAL PROGRAMMER. IF YOU CHOOSE TO USE
 ANY OF THIS CODE, DO SO AT YOUR OWN RISK.
 
-This project is VERY early in development, so it may not make much sense yet.
+This project is VERY early in development, so it may not make much sense yet. Also, going off my track record it may never be finished.
 
 This is a simple web based app written in C++. I have not yet finalized the idea for the project itself.
 
