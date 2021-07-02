@@ -9,5 +9,5 @@ This process acts as a local winsock server, and recieves write requests from ot
 writes to the database.
 
 
-To compile this code yourself you must download the sqlite3 repository, compile sqlite3.c as a .o file, and like that file to the rest of the
+To compile this code yourself you must download the sqlite3 repository, compile sqlite3.c as a .o file, and link that file to the rest of the
 code at compile time. You also need to include the sqlite3.h file for function definitions
