@@ -10,9 +10,13 @@ This is a simple web based app written in C++. I have not yet finalized the idea
 
 
 There are/will be 4 parts to this app:
+
 databse interface (C++ using winsock and sqlite)
+
 main web server (C++ using winsock)
+
 desktop client (C++ using QT)
+
 web client (HTML/CSS/JS)
 
 
